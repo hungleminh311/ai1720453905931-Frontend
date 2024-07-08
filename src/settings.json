@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way.",
+        "title": "Discover the Freedom of the Open Road"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover the Freedom of the Open Road",
+  "subtitle": "Experience seamless car rental services with unparalleled efficiency and professionalism. Your journey, your way."
+}
